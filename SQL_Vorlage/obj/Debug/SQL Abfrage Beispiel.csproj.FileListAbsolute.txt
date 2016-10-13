@@ -1,0 +1,6 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL Abfrage Beispiel\SQL Abfrage Beispiel\bin\Debug\SQL Abfrage Beispiel.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL Abfrage Beispiel\SQL Abfrage Beispiel\obj\Debug\SQL Abfrage Beispiel.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL Abfrage Beispiel\SQL Abfrage Beispiel\bin\Debug\SQL Abfrage Beispiel.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL Abfrage Beispiel\SQL Abfrage Beispiel\bin\Debug\SQL Abfrage Beispiel.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL Abfrage Beispiel\SQL Abfrage Beispiel\obj\Debug\SQL Abfrage Beispiel.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL Abfrage Beispiel\SQL Abfrage Beispiel\obj\Debug\SQL Abfrage Beispiel.pdb

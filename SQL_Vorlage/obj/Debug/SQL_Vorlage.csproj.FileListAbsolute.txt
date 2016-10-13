@@ -1,0 +1,8 @@
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\bin\Debug\SQL Abfrage Beispiel.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\obj\Debug\SQL Abfrage Beispiel.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\obj\Debug\SQL Abfrage Beispiel.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\bin\Debug\SQL Abfrage Beispiel.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\bin\Debug\SQL Abfrage Beispiel.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\obj\Debug\SQL_Vorlage.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\bin\Debug\Npgsql.dll
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\SQL_Vorlage\SQL_Vorlage\bin\Debug\Npgsql.xml
